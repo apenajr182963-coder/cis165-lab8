@@ -1,1 +1,2 @@
-# cis165-lab8
+My program will generate five random digits from 0 through 9 and store them in an integer array named winningDigits. I will ask the user to enter five digits and store them in another integer array named player.
+I will use loops to fill both arrays. Another loop will compare the digits at the same positions and count the matches. I will display the winning digits, the player's digits, and the total number of matching positions.
